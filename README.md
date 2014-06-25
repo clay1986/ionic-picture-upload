@@ -1,0 +1,1 @@
+Example with ionic to take a picture and upload through service.
